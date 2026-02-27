@@ -1,4 +1,4 @@
-# CPSC449_HW1
+# CPSC449-02_HW1
 PUT endpoint (update book)
 <img width="1285" height="954" alt="Screenshot 2026-02-27 000334" src="https://github.com/user-attachments/assets/aed3659c-317b-44be-87ae-bbaa0bd9a183" />
 
